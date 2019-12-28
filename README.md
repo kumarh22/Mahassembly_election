@@ -1,5 +1,6 @@
 <center>
 <h2 style="font:monaco;color:blue;">महाराष्ट्र विधानसभा निवडणूक, २०१९  </h3>
+<center><img src='/images/maha.jpg'></center>
 </center>
 
 **Exploration** and **Visualization** of election data - *Maharashtra Legislative Assembly election, 2019*:triangular_flag_on_post: <br/>
